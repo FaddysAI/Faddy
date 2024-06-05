@@ -33,17 +33,19 @@ For more information, please refer to <https://unlicense.org>
 
 ## Installation
 
-This file is not just a regular README,
+This is not just a regular README,
 but it's also a RollScript that can be run using Faddy's Roll.
+
+Faddy's Roll can be installed as follows:
 
 ```bash
 sudo npm i -g @faddys/roll
 ```
 
-Now, it can be used like this:
+Now, it can be used to roll this README and perform it's logic:
 
 ```bash
-roll README
+roll README.md
 ```
 
 ## Implementation
