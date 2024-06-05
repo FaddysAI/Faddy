@@ -2,7 +2,7 @@
   "name": "faddy",
   "version": "1.0.0",
   "description": "Faddy Al Artificial",
-  "bin": "./README",
+  "bin": "./README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FaddysStudio/Faddy.git"
