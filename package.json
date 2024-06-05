@@ -1,0 +1,16 @@
+{
+  "name": "faddy",
+  "version": "1.0.0",
+  "description": "Faddy Al Artificial",
+  "bin": "./README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaddysStudio/Faddy.git"
+  },
+  "author": "Faddy Michel <faddy.michel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaddysStudio/Faddy/issues"
+  },
+  "homepage": "https://github.com/FaddysStudio/Faddy#readme"
+}

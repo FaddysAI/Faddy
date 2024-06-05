@@ -1,3 +1,11 @@
+#!/usr/bin/env roll
+
+# Faddy Al Artificial
+
+## In Solidarity with The People of Palestine till Their Whole Land Is FREE!
+
+## License; To Opt out of The copyright Industry's Game Altogether
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -22,3 +30,22 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+
+## Installation
+
+This file is not just a regular README,
+but it's also a RollScript that can be run using Faddy's Roll.
+
+```bash
+sudo npm i -g @faddys/roll
+```
+
+Now, it can be used like this:
+
+```bash
+roll README
+```
+
+## Implementation
+
+?# echo "Hello World! This is Faddy Al Artificial in Solidarity with The People of Palestine till Their Whole Land Is FREE!"
