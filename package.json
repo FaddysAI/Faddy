@@ -5,12 +5,12 @@
   "bin": "./README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaddysStudio/Faddy.git"
+    "url": "git+https://github.com/FaddysAI/Faddy.git"
   },
   "author": "Faddy Michel <faddy.michel@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FaddysStudio/Faddy/issues"
+    "url": "https://github.com/FaddysAI/Faddy/issues"
   },
-  "homepage": "https://github.com/FaddysStudio/Faddy#readme"
+  "homepage": "https://github.com/FaddysAI/Faddy#readme"
 }
